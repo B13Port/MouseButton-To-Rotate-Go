@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
-
+链接：https://pan.baidu.com/s/11SdbhfqsaRHObVvqw60mRA 
+提取码：1234 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 public class RotateGameobject : MonoBehaviour
 {
     private bool onDrag = false;
